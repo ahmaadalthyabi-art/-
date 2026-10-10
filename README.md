@@ -8,7 +8,7 @@
 - جداول Excel من 21 ورقة: [tables.xlsx](outputs/tables.xlsx).
 - الحزمة الكاملة، بما فيها 11 رسمًا بصيغتي PNG وSVG: [analysis.zip](outputs/analysis.zip).
 
-ملفات مستقلة للاتساق الداخلي، تشمل جدولًا موجزًا وستة جداول لجميع البنود مع تفسير أسفل كل جدول وبيان الدلالة الإحصائية:
+ملفات مستقلة للاتساق الداخلي بمعامل ارتباط بيرسون المصحح، تشمل جدولًا موجزًا وستة جداول لجميع البنود مع تفسير أسفل كل جدول وبيان الدلالة الإحصائية:
 
 - نسخة Word قابلة للتعديل: [internal_consistency.docx](outputs/internal_consistency.docx).
 - نسخة PDF للطباعة: [internal_consistency.pdf](outputs/internal_consistency.pdf).
